@@ -2,7 +2,7 @@
 # By: Ruth Girma  
 
 # Introduction
-## This project studied how people felt in complaints about banks and related services.  
+This project studied how people felt in complaints about banks and related services.  
 
 # Dictionary
 ## The main variables that were used in this sentiment analysis were:
