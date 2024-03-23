@@ -1,4 +1,8 @@
 # DATA-332-Sentiment-analysis  
+# By: Ruth Girma  
+## This project studied how people felt in complaints about banks and related services.  
+
+
 # Top 10 companies with positive sentiment  
 ## This graph shows the top ten companies that are perceived positively based on some sentiment analysis
 <img src = "Images/Top 10 companies with positive sentiment score.png" height = 300, width = 500>  
