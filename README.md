@@ -12,11 +12,12 @@ The main variables that were used in this sentiment analysis were:
 
 # Data cleaning
 ## Renaming some of the columns so that it is easier to use 
-""
+Some column names contained spaces, periods, and commas, which made it challenging to use them accurately. Therefore, I adjusted some of the names to improve usability  
+```
 colnames(complaints_table)[1]<-"Date_recieved"
 colnames(complaints_table)[6]<-"Consumer_complaint"
 colnames(complaints_table)[15]<-"Company_response"
-""
+```
 # Top 10 companies with positive sentiment  
 ## This graph shows the top ten companies that are perceived positively based on some sentiment analysis
 <img src = "Images/Top 10 companies with positive sentiment score.png" height = 300, width = 500>  
