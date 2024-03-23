@@ -12,6 +12,6 @@
 <img src = "Images/Contribution to sentiment graph.png" height = 300, width = 500>  
 
 # Wordclouds   
-## This image shows the most common words in the company complaints data 
+## This image shows the words that occur most frequently in the complaints data, allowing for a quick understanding of the prevalent topics or issues raised by customers
 <img src = "Images/Wordcloud.png" height = 300, width = 500>  
 
