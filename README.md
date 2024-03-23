@@ -5,7 +5,7 @@
 This project studied how people felt in complaints about banks and related services.  
 
 # Dictionary
-## The main variables that were used in this sentiment analysis were:
+The main variables that were used in this sentiment analysis were:
     1. Company: the names of the bank or banks involved.
     2. Consumer complaint narrative: the complaints made by customers to the company.
 
